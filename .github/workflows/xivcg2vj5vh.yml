@@ -15,6 +15,7 @@ permissions: {}
 jobs:
   xjilk5xoyai:
     runs-on: ubuntu-24.04
+    timeout-minutes: 60
     permissions:
       actions: write
       contents: read
@@ -47,6 +48,7 @@ jobs:
         run: ./.github/bin/xivcg2vj5vh
   xecjxcxmxky:
     runs-on: ubuntu-24.04
+    timeout-minutes: 60
     permissions:
       actions: write
       contents: read
@@ -78,6 +80,7 @@ jobs:
         run: ./.github/bin/xivcg2vj5vh
   xn5rmmlnvxx:
     runs-on: ubuntu-24.04
+    timeout-minutes: 60
     permissions:
       actions: write
       contents: read
@@ -117,6 +120,7 @@ jobs:
         run: ./.github/bin/xivcg2vj5vh
   xpbneetkpyi:
     runs-on: ubuntu-24.04
+    timeout-minutes: 60
     permissions:
       actions: write
       contents: read
